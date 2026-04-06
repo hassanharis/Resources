@@ -43,6 +43,10 @@ NVIDIA NIM → GPU-accelerated inference → Enterprise-grade deployment
 
 Plus: pyproject.toml for modern dependency management, Docker + Compose for containerization, and proper .gitignore hygiene.
 
+# DSPy
+DSPy, an open-source framework from Stanford University that algorithmically optimises language model prompts, breaking the extraction process into specialised agent workflows for tasks like fraud detection and tax coding rather than relying on one model to process entire websites at once.
+
+Raghavan added that implementing the framework meant the team "doubled our quality compared to the previous single-prompt baseline," with the specialised agents also reducing hallucination rates and improving task adherence across Shopify's merchant-facing applications.
 
 
 
