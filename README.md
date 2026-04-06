@@ -42,3 +42,17 @@ NVIDIA NIM → GPU-accelerated inference → Enterprise-grade deployment
 
 
 Plus: pyproject.toml for modern dependency management, Docker + Compose for containerization, and proper .gitignore hygiene.
+
+
+
+
+
+
+• Build a Password Manager to learn file handling, hashing (not full crypto)
+• Build a URL Shortener to understand routing, IDs, and persistence
+• Build a Todo App with deadlines to practice CRUD and basic state
+• Build a Web Scraper to learn requests, parsing, and rate limits
+• Build a CLI Expense Tracker to master logic, files, and edge cases
+• Build a Log Analyzer to work with files, timestamps, and patterns
+• Build a Simple Recommender using similarity rules (not ML magic)
+• Build an Email Automation Script using SMTP and scheduling
