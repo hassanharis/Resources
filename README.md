@@ -60,3 +60,41 @@ Raghavan added that implementing the framework meant the team "doubled our quali
 • Build a Log Analyzer to work with files, timestamps, and patterns
 • Build a Simple Recommender using similarity rules (not ML magic)
 • Build an Email Automation Script using SMTP and scheduling
+
+
+
+# Fine-tune and run Gemma 4 and 500+ open-source for FREE 
+
+Just open a Google Colab. Choose a model. Hit start.
+
+No code required. 100% free and Open Source.
+
+Meet Unsloth Studio. The open-source, no-code UI for training, running, and exporting open models locally.
+
+Fine-tuning open models still means writing training scripts, managing VRAM, debugging configs, and praying your Colab session doesn't crash halfway through.
+
+Most developers skip fine-tuning entirely because the setup cost isn't worth it.
+
+Unsloth Studio removes all of that.
+
+Upload a PDF, CSV, or JSON file. It auto-creates your training dataset. Pick your model. Click train. Watch the loss curve in real time.
+
+No training scripts. No dataset formatting. No YAML debugging.
+
+Here's what it handles:
+• Train 2x faster with 70% less VRAM across 500+ text, vision, TTS, and embedding models
+• Auto-creates datasets from raw documents using Data Recipes powered by NVIDIA NeMo
+• Self-healing tool calling and code execution during inference
+• Model Arena to compare base vs fine-tuned outputs side by side
+• Export to GGUF, safetensors for use with Ollama, vLLM, LM Studio, and llama.cpp
+• Runs 100% offline. No telemetry. No data leaves your machine.
+
+The Google Colab notebook is free. Runs on T4 GPUs. Handles models up to 22B parameters. Just click "Run all" and the UI loads.
+
+On your own hardware, it supports NVIDIA RTX 30/40/50 series, Intel GPUs, and Mac for inference. Apple MLX training support is coming soon.
+
+Fine-tuning used to be a weekend project. Now it's a 10-minute workflow.
+
+Link to the GitHub repo in the comments.
+
+
