@@ -20,6 +20,12 @@ Mistral AI → Lightweight + fast → Production-ready
 
 NVIDIA NIM → GPU-accelerated inference → Enterprise-grade deployment
 
+
+https://github.com/marketplace/models
+https://aistudio.google.com
+
+
+
 # A production-ready Generative AI Project Structure
 
 𝗰𝗼𝗻𝗳𝗶𝗴/ → Externalize everything. Model providers, parameters, logging levels. One YAML change, zero code changes.
