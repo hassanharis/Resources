@@ -1,3 +1,72 @@
+These are repos I use to build faster GTM workflows, connect tools, ship internal apps, and give agents better context.
+
+Google Workspace CLI
+
+https://github.com/googleworkspace/cli
+
+not gonna lie I legit replace clay once I figure this one out
+
+Run Gmail, Drive, Sheets, Docs, Calendar, and more from the terminal. Huge for agent workflows because tools become commandable.
+
+2. shadcn/ui
+
+this one turned me into a react junkie overnight
+
+https://github.com/shadcn-ui/ui
+
+Clean UI components you actually own. Copy them into your app, customize them, and ship dashboards or internal tools faster.
+
+3. Recharts
+
+https://github.com/recharts/recharts
+
+Simple React charts for GTM dashboards, pipeline views, enrichment reports, and any workflow where tables need to become insight.
+
+4. OpenShorts
+
+https://github.com/mutonby/openshorts
+
+Open source AI video tooling for shorts and content workflows. Useful if you want to systematize content instead of editing every asset manually.
+
+5. Hermes Agent
+
+https://github.com/NousResearch/hermes-agent
+
+A self-improving agent framework. The interesting part is the skill, memory, and feedback loop, not just “agent can chat.”
+
+6. yt-dlp
+
+Open shorts plus this one is actually insane
+https://github.com/yt-dlp/yt-dlp
+
+The command-line media tool everyone quietly depends on. Great for turning public videos into transcripts, research inputs, clips, and reusable context.
+
+7. DocuSeal
+
+write and send proposals all from your terminal build your workflows and then add the context to your proposals and send in one session
+https://github.com/docusealco/docuseal
+
+Open source document signing and form filling. Proposals, agreements, intake forms, approvals, and client docs without another closed SaaS step.
+
+8. Awesome Design MD
+get real design in info so your vibe coded website doesn't look like AI slop
+https://github.com/VoltAgent/awesome-design-md
+
+Design context files for popular systems. Give your coding agent taste before it starts generating random gray rectangles.
+
+9. CLI-Anything
+
+https://github.com/HKUDS/CLI-Anything
+
+Turn apps into programmable interfaces. Agents work better when they can run commands instead of clicking around like lost interns.
+
+10. GTM Coding Agents
+
+https://github.com/shawnla90/gtm-coding-agent
+
+This one is mine.
+
+
 # 10 FREE AI APIs you should be using in 2026 (but most aren’t)
 
 Google Gemini (AI Studio) → Multimodal (text, image, video) → 1M token context
